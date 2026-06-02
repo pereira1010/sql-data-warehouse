@@ -105,7 +105,9 @@ data-warehouse-project/
 
 Let's stay in touch! Feel free to connect with me:
 
-[![LinkedIn](https://www.linkedin.com/in/pereira1010/)
+[![LinkedIn](https://www.linkedin.com/in/pereira1010)
+
+
 ---
 
 ## 🛡️ License
