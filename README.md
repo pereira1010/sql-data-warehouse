@@ -43,7 +43,7 @@ This project involves:
 - **[Notion](https://www.notion.com/templates/sql-data-warehouse-project):** Get the Project Template from Notion
 - **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
 Running SQL Server on Mac
-- **[Youtube Link](https://www.youtube.com/watch?v=e8dd6buQVRI)
+- **[Youtube Link](https://www.youtube.com/watch?v=e8dd6buQVRI)**
 ---
 
 ## 🚀 Project Requirements
